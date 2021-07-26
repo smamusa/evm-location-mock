@@ -1,0 +1,26 @@
+{
+  "name": "evm-location-mock",
+  "version": "1.0.0",
+  "description": "EV location mocking service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smamusa/evm-location-mock.git"
+  },
+  "author": "Stjepan Mamuša",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smamusa/evm-location-mock/issues"
+  },
+  "homepage": "https://github.com/smamusa/evm-location-mock#readme",
+  "dependencies": {
+    "mapbox-gl": "^2.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
